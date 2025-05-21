@@ -1,2 +1,2 @@
-# Awaisrao_demo
-This is my first Git repository
+myfirstrapo
+This rapo contain my first project code
